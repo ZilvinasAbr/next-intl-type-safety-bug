@@ -1,5 +1,9 @@
 # Issue Description:
 
+## Title t function with any subkey can be passed as parameter when specific subkey t function is enforced by Typescript
+
+## Description
+
 I'm trying to create a function that given a TFunction (returned from `useTranslations` or `getTranslations`) as a parameter would use it to get translations and output some translated texts. The problem is that Typescript does not seem to enforce correctly the type-safety of this parameter.
 
 Here's an example:
