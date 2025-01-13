@@ -1,5 +1,8 @@
 {
-  "IndexPage": {
-    "title": "Hello!"
+  "general": {
+    "testKey": "Test value"
+  },
+  "another": {
+    "testKey2": "Test value 2
   }
 }
